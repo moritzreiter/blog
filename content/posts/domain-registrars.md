@@ -1,7 +1,7 @@
 ---
 title: "Popular Domain Registrars"
 date: 2023-12-14T10:13:10+01:00
-draft: true
+draft: false
 ---
 
 On the occasion of the shutdown of Google Domains, Gergely Orosz made a nice
