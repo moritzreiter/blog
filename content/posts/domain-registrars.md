@@ -4,7 +4,8 @@ date: 2023-12-14T10:13:10+01:00
 ---
 
 On the occasion of the shutdown of Google Domains, Gergely Orosz made a nice
-[overview of domain registrars](https://blog.pragmaticengineer.com/domain-registrars-which-developers-recommend/?utm_source=tldrnewsletter)
+[overview of domain
+registrars](https://blog.pragmaticengineer.com/domain-registrars-which-developers-recommend)
 which are popular among developers.
 
 The most interesting
