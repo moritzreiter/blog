@@ -7,7 +7,11 @@ Syncing the contents of a directory with a directory on a remote host can
 ge done with a simple `rsync` command:
 
 ```shell
-rsync --verbose --recursive --delete source-dir host:destination-dir
+rsync \
+  --verbose \
+  --recursive \
+  --delete \
+  source-dir host:destination-dir
 ```
 
 The `--verbose` option is optional of course, but if you want to know what
