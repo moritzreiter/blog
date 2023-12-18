@@ -92,8 +92,8 @@ name = "github"
 url = "https://github.com/moritzreiter"
 
 [[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com/moritzreiter"
+name = "x"
+url = "https://x.com/moritzreiter"
 
 [[params.socialIcons]]
 name = "Rss"
