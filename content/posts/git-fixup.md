@@ -1,5 +1,5 @@
 ---
-title: "Fixing up a git commit"
+title: "Fixing up a Git Commit"
 date: 2024-11-20T21:17:11Z
 ---
 
@@ -34,6 +34,8 @@ To make this a little bit more efficient, I created an alias in my git config:
 
 ```
 [alias]
-  fixup = "!git commit --fixup=\"$1\" && git rebase --interactive --autosquash \"$1^\" #"
+  fixup = !git commit --fixup=\"$1\" \
+      && git rebase --interactive --autosquash \"$1^\" \
+      && :
 ```
 
