@@ -11,7 +11,7 @@ _`dinosaurs.http`_
 
 ```
 
-### Get and overview of all dinosaurs (timeout after 60 minutes)
+### Get an overview of all dinosaurs (timeout after 60 minutes)
 # @timeout 60 m
 GET {{apiBaseUrl}}/dionausrs
 Accept: application/json
