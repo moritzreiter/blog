@@ -1,7 +1,6 @@
 ---
 title: "Scrolling issues with IdeaVim in VDI"
-date: 2025-04-29T09:43:14+02:00
-draft: true
+date: 2025-04-28T20:23:14+02:00
 ---
 
 For a client I had to work with IntelliJ IDEA on a VDI-Windows machine with
